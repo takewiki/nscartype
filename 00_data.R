@@ -1,6 +1,8 @@
 # 设置app标题-----
 
-app_title <-'App Template';
+app_title <-'品牌车型设置V1';
+
+conn <- conn_rds('nsic')
 
 
 # 设置3条消息框------
