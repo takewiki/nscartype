@@ -1,6 +1,6 @@
 # 设置app标题-----
 
-app_title <-'品牌车型设置V1';
+app_title <-'品牌车型设置V2';
 
 conn <- conn_rds('nsic')
 
